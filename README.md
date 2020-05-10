@@ -30,3 +30,5 @@ The evaluation metric for this competition is ROC AUC Score.
 
 Public Leaderboard: Rank 42
 Private Leaderboard: Rank 11
+
+Variable	Description
